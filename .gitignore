@@ -1,0 +1,8 @@
+node_modules
+dist
+build
+nikhil
+.env
+.env.local
+.env.production
+.env.staging

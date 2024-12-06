@@ -1,0 +1,15 @@
+/* src/components/ParallaxComponent.css */
+.parallax-container {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .content {
+    padding: 20px;
+    text-align: center;
+  }
+  
